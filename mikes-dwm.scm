@@ -30,7 +30,7 @@
   #:use-module (guix utils)
   #:use-module (guix packages))
 
-(define-public dwm
+(define-public mikes-dwm
   (package
     (name "dwm")
     (version "6.5")
