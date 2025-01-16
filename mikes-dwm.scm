@@ -84,5 +84,3 @@
 monocle and floating layouts.  All of the layouts can be applied dynamically,
 optimising the environment for the application in use and the task performed.")
     (license license:x11)))
-
-dwm
